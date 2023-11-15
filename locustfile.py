@@ -7,7 +7,6 @@ endpoints = [
     '/api/ipaddresses',
     '/api/solarBatteries',
     '/api/solarPanels',
-    '/equipmentShops',
     '/api/solarSystems',
 ]
 
